@@ -1,0 +1,8 @@
+What I did today
+
+half hour - learn Route 53
+an hour - learn cloudTrail, Cloud Watch
+
+two hour - rewatch today's lecture
+
+half hour - coding practice
