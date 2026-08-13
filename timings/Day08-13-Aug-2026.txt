@@ -1,0 +1,5 @@
+What I did today
+
+one and half hour - Kubernetes Hands-on
+
+half hour - revise Kubernetes concepts
