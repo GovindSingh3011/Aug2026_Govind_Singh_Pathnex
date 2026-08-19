@@ -1,0 +1,5 @@
+What I did today
+
+an hour - Deploy full stack website to AWS EKS using ingress, Load Balancer
+
+an hour - learn Argo CD concepts
