@@ -1,0 +1,5 @@
+What I did today
+
+an hour - Kubernetes Hands-on
+
+an hour - learn Helm concepts
